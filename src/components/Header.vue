@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <header class="bg-black">
+    <header class="flex justify-end bg-red-500">
         <Menu />
         <Sign />
     </header>

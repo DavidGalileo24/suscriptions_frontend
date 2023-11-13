@@ -3,5 +3,5 @@
 
 <template>
   <Header />
-  <p>Register</p>
+  <p class="">Register</p>
 </template>
