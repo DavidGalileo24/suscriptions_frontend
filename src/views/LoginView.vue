@@ -2,6 +2,6 @@
 </script>
 
 <template>
-  <Header />
-  <p>About</p>
+    <Header />
+  <p>Login</p>
 </template>

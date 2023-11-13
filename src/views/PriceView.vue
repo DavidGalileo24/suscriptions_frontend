@@ -2,6 +2,6 @@
 </script>
 
 <template>
-  <Menu />
+  <Header />
   <p>Prices</p>
 </template>
