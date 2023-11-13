@@ -3,5 +3,5 @@
 
 <template>
   <Menu />
-  <p>Home</p>
+  <p>About</p>
 </template>
