@@ -1,6 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --blue: #11111F;
+  --gray: #C1C6C8;
+  --blue2: #0C356A;
+}
+.header{
+  background: var(--blue); 
+  color: var(--gray);
+  height: 15vh;
+}
+.main{
+  background: var(--blue); 
+  color: var(--gray);
+  height: 85vh;
+}
+
 /*
 @import './base.css';
 

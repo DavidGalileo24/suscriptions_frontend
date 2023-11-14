@@ -2,8 +2,10 @@
 
 </script>
 <template>
-    <router-link to="/">Inicio</router-link>
-    <router-link to="/about">Nosotros</router-link>
-    <router-link to="/prices">Tarifas</router-link>
-    <router-link to="/faq">Preguntas frecuentes</router-link>
+    <div class="text-center">
+        <router-link to="/" class="text-sm mx-2">Inicio</router-link>
+        <router-link to="/about" class="text-sm mx-2">Nosotros</router-link>
+        <router-link to="/prices" class="text-sm mx-2">Tarifas</router-link>
+        <router-link to="/faq" class="text-sm mx-2">Preguntas frecuentes</router-link>
+    </div>
 </template>
